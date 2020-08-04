@@ -1,5 +1,5 @@
 <h1 align="center">
-  :scissors::link: SOLID API
+  :rocket: SOLID API
 </h1>
 
 <p align="center">
